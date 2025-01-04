@@ -1,2 +1,2 @@
 # Manan
-This is my rev repository on github.
+This is my new repository on github.
